@@ -1,0 +1,29 @@
+.div-central {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.caixa-um {
+    border: solid 1px red;
+    height: 150px;
+    width: 250px;
+    margin: 5px;
+}
+
+.caixa-tres {
+    border: solid 1px red;
+    height: 150px;
+    width: 250px;
+    margin: 5px;
+}
+
+.caixa-dois {
+    margin: 5px;
+    text-align: center;
+}
+
+.caixa-dois ol li {
+    list-style-type: none;
+    color: blue;
+}

@@ -1,0 +1,8 @@
+.div-cabeca {
+    display: flex;
+    border: solid 1px black;
+    background-color: red;
+    border-radius: 10pxg;
+    justify-content: center;
+    color: white;
+}
